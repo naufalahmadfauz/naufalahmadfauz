@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is Naufal Ahmad Fauzan</h1>
+<h1 align="center">Hi there 👋, I'm Naufal Ahmad Fauzan</h1>
 <h3 align="center">I'm a loving-to-explore and casual developer from Indonesia!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufalahmadfauz" alt="naufalahmadfauz" /></a> </p>
