@@ -27,3 +27,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalahmadfauz&show_icons=true&locale=en&layout=compact" alt="naufalahmadfauz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalahmadfauz&show_icons=true&locale=en" alt="naufalahmadfauz" /></p>
+<p> 
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="redis" width="240" height="240"/> </a> 
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="redis" width="240" height="240"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="redis" width="240" height="240"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/b2db4424-989e-4df9-ad19-1539d2743d74/image.png" alt="redis" width="240" height="240"/> </a>
+  
+</p>
