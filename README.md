@@ -28,9 +28,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalahmadfauz&show_icons=true&locale=en" alt="naufalahmadfauz" /></p>
 <p> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="redis" width="240" height="240"/> </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="redis" width="240" height="240"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="redis" width="240" height="240"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/b2db4424-989e-4df9-ad19-1539d2743d74/image.png" alt="redis" width="240" height="240"/> </a>
+  <a href="https://www.credly.com/badges/91fd9990-dc47-4520-9806-08b2f1de313a/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="redis" width="240" height="240"/> </a> 
+  <a href="https://www.credly.com/badges/d9c6fcc3-f574-416c-a03b-cdb5c20d145d/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="redis" width="240" height="240"/> </a>
+  <a href="https://www.credly.com/badges/74a7c8dd-c2f2-4d00-ad40-d47d1f0df623/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="redis" width="240" height="240"/> </a>
+  <a href="https://www.credly.com/badges/4fe158e7-7ad2-46ce-ac16-7821ac257360/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/b2db4424-989e-4df9-ad19-1539d2743d74/image.png" alt="redis" width="240" height="240"/> </a>
   
 </p>
