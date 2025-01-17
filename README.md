@@ -11,8 +11,7 @@
 
 - ⚡ Fun fact **Hardcore FPS Gamer 😎**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalahmadfauz&show_icons=true&locale=en&layout=compact" alt="naufalahmadfauz" /></p>
-<p>
+
 <h3 align="left">Badges & Certification:</h3>
   <a href="https://www.credly.com/badges/91fd9990-dc47-4520-9806-08b2f1de313a/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="redis" width="240" height="240"/> </a> 
   <a href="https://www.credly.com/badges/d9c6fcc3-f574-416c-a03b-cdb5c20d145d/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="redis" width="240" height="240"/> </a>
