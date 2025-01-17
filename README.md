@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Naufal Ahmad Fauzan</h1>
 <h3 align="center">I'm a loving-to-explore and casual developer from Indonesia!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufalahmadfauz" alt="naufalahmadfauz" /></a> </p>
-
 - 🔭 I’m currently working on [Community Radio Arsamuda](https://github.com/naufalahmadfauz/Arsamuda)
 
 - 🌱 I’m currently learning **NodeJS,Cloud Technology,DevOps**
